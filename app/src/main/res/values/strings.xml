@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CardImagenesButton</string>
+    <string name="germany">Alemania</string>
+    <string name="austria">Austria</string>
+    <string name="denmark">Dinamarca</string>
+    <string name="spain">España</string>
+    <string name="netherlands">Paises bajos</string>
+    <string name="belgium">Belgica</string>
+
+    <string name="germanyCapital">Berlín</string>
+    <string name="austriaCapital">Viena</string>
+    <string name="denmarkCapital">Copenhague</string>
+    <string name="spainCapital">Madrid</string>
+    <string name="netherlandsCapital">Ámsterdam</string>
+    <string name="belgiumCapital">Bruselas</string>
+    
+    <string name="country">País</string>
+    <string name="capital">Capital</string>
+</resources>
